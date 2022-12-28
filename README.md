@@ -14,7 +14,12 @@ This project is written with html and css
 </p>
 </pre>
  
- ### :cd: Download :
+ ### :framed_picture: screenshot
+ ___
+ 
+ 
+ 
+ ### :envelope_with_arrow: Download :
  ___
 * Windows:
   * Download from [here](https://codeload.github.com/amirdecoder/Site-Kid/zip/refs/heads/main)
