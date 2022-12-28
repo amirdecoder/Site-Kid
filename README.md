@@ -17,6 +17,19 @@ This project is written with html and css
  ### :framed_picture: screenshot
  ___
  
+<table>
+  <tr>
+    <td>
+     <img align="center" src="https://github.com/amirdecoder/Site-Kid/blob/main/Screenshot/Screenshot%20(68).png" />
+   </td>
+    <td>
+     <img align="center" src="https://github.com/amirdecoder/Site-Kid/blob/main/Screenshot/Screenshot%20(69).png" />
+   </td>
+    <td>
+     <img align="center" src="https://github.com/amirdecoder/Site-Kid/blob/main/Screenshot/Screenshot%20(69).png" />
+   </td>
+  </tr>
+</table>
  
  
  ### :envelope_with_arrow: Download :
